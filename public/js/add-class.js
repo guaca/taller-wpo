@@ -3,4 +3,4 @@ const addHeroClass = () => {
     image.classList.add("hero-image")
     console.log("class added");
 }
-const myTimeout = setTimeout(addHeroClass, 2000);
+addHeroClass();
