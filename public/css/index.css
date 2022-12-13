@@ -263,3 +263,18 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+.hero-image {
+  background-image: url("/img/puppy-dog.jpeg");
+  background-size: cover;
+  height: 350px;
+  width: 350px;
+  margin: 0 auto;
+}
+
+.image {
+  height: 350px;
+  width: 350px;
+  margin: 0 auto;
+  display: block;
+}
